@@ -9,7 +9,7 @@
 - 🌿 Passionate about **Embedded Systems, IoT, and AI/ML**
 - 🧠 I love learning and building innovative tech projects
 - 🥋 Karate Purple Belt – discipline, focus, and energy define me
-- 💡 Secretary at **IEEE CHARUSAT WIE Affinity Group**
+- 💡 Secretary at **IEEE CHARUSAT MAIN STUDENT BRANCH**
 - 💼 Currently volunteering with **IEEE CHARUSAT SB** 
 - 💻 Obsessed with circuits, simulations, and smart systems
 
