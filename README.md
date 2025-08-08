@@ -43,7 +43,6 @@
 
 - 🌐 [LinkedIn](linkedin.com/in/urja-gajera-a70aa631a) 
 - 📧 urjagajera12@gmail.com
-- 🛠️ Portfolio: Coming Soon...
 
 ---
 
