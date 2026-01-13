@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Urja Gajera</h1>
-<h3 align="center">aka Spark ⚡ | CSE @ CSPIT | Circuit & Code Lover</h3>
+<h3 align="center">aka Spark ⚡ | CSE @ CSPIT </h3>
 
 ---
 
