@@ -43,8 +43,3 @@
 
 - 🌐 [LinkedIn](linkedin.com/in/urja-gajera-a70aa631a) 
 - 📧 urjagajera12@gmail.com
-
----
-
-⭐ **Fun Fact**  
-I’m called **Spark** because I light up ideas with code and creativity ⚡
